@@ -1,0 +1,26 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/i18n": "^7.0.2",
+    "bulma": "^0.9.3",
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "vue-i18n": "^8.25.0",
+    "vuetify": "^2.5.8"
+  },
+  "devDependencies": {
+    "@intlify/vue-i18n-loader": "intlify/vue-i18n-loader",
+    "@nuxtjs/moment": "^1.6.1",
+    "@nuxtjs/vuetify": "^1.12.1",
+    "node-sass": "5.0.0",
+    "sass-loader": "10.1.1"
+  }
+}
