@@ -1,2 +1,2 @@
-# Landing-page - Quan Tran
+# Landing Page - Quan Tran
 Landing page with Nuxt JS, Vue, HTML, SCSS.
